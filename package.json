@@ -1,0 +1,15 @@
+{
+  "name": "pureNodeApiTest",
+  "version": "0.0.1",
+  "description": "test of easy soap and pure api",
+  "main": "index.js",
+  "dependencies":
+  {
+    "soap" : ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nathanbuckley",
+  "license": "MIT"
+}
