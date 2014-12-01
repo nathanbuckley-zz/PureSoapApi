@@ -62,9 +62,9 @@ function logout(beanId){
       "contextId": beanId,
       "className":"bus_facade_context",
       "processName": "logout",
-      function(err, res){
-        console.log(res);
-      }
-    })
-  })
+    },
+    function(err, res){
+      console.log(res);
+    });
+  });
 }
